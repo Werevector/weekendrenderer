@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\vec3.h(96): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\vec3.h(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\vec3.h(165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\hitable_list.h(18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\camera.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\programmering\git\raytracingoneweek\raytracinginoneweek\raytracinginoneweek\material.h(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(76): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(118): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  1 of 182 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  raytracinginoneweek.vcxproj -> C:\programmering\git\raytracingoneweek\raytracinginoneweek\Release\raytracinginoneweek.exe
+  raytracinginoneweek.vcxproj -> C:\programmering\git\raytracingoneweek\raytracinginoneweek\Release\raytracinginoneweek.pdb (Full PDB)
